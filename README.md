@@ -1,9 +1,7 @@
 # 🌟 **Data Analyst Portfolio** 🌟  
 
-![Portfolio Banner]("C:\Users\91853\Downloads\White Minimalist Corporate Personal Profile LinkedIn Banner.png")  
-*(Replace this placeholder URL with your custom banner image)*  
-
----
+![Portfolio Banner](https://www.canva.com/design/DAGWy2tL8B8/91Ux_g7Tqt2d1U7iINZJCA/edit?utm_content=DAGWy2tL8B8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+ 
 
 ## **📌 About Me**  
 
