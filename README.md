@@ -5,18 +5,18 @@
 
 ## **📌 About Me**  
 
-Hi there! I’m **[Your Name]**, a Data Analyst with a passion for transforming raw data into meaningful insights. My work focuses on uncovering patterns, building impactful visualizations, and supporting data-driven decisions.  
+Hi there! I’m **Shruti Joshi**, a Data Analyst with a passion for transforming raw data into meaningful insights. My work focuses on uncovering patterns, building impactful visualizations, and supporting data-driven decisions.  
 
 🔍 **Key Strengths:**  
 - Data Cleaning & Transformation  
 - Statistical Analysis  
-- Dashboard Design & Storytelling  
+- Dashboard Design  
 
 💻 **Tools & Technologies:**  
-- **Programming:** Python, SQL, R  
+- **Programming:** Python, SQL  
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-- **Databases:** MySQL, PostgreSQL  
-- **Others:** Excel, Jupyter Notebook, Git  
+- **Databases:** MySQL 
+- **Others:** Excel, Jupyter Notebook
 
 ---
 
