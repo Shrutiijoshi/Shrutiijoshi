@@ -23,54 +23,54 @@ Hi there! I’m **Shruti Joshi**, a Data Analyst with a passion for transforming
 ## **📊 Featured Projects**  
 
 ### 🚖 **1. Ola-Uber Ride Analysis**  
-**Objective:** Analyze ride data to identify trends, optimize driver allocation, and assess the impact of surge pricing.  
-- **Skills Demonstrated:** Data wrangling, visualization, and statistical insights.  
-- **Tools Used:** Python (Pandas, Matplotlib)  
+**Objective:** Analyze peak hours and months for Ola and Uber rides in various cities.
+Compare fare structures.  
+- **Skills Demonstrated:** querying and analyzing the data.  
+- **Tools Used:** MySQL  
 - **Key Insights:**  
-  - Peak demand hours identified (8–10 AM, 5–8 PM).  
-  - Recommendations for reducing surge pricing impacts.  
-📁 **[View Project Code](https://github.com/yourusername/portfolio/tree/main/Ola-Uber-Analysis)**  
+  - Identify the average ride duration and distance across different cities.
+  - Explore other interesting patterns like demand fluctuations. 
+📁 **[View Project](https://github.com/Shrutiijoshi/Ola-uber-data-analysis)**  
 
 ---
 
-### 📈 **2. Sales Performance Dashboard**  
-**Objective:** Create an interactive dashboard for monitoring sales KPIs and trends.  
-- **Skills Demonstrated:** Dashboard design, KPI tracking, and forecasting.  
-- **Tools Used:** Tableau, Excel  
+### 📈 **2. Crime_against_women in India (2001-2014)-Data Analysis**  
+**Objective:** Compare which states have appeared in multiple lists (e.g., "Maximum number of rape cases" and "Maximum number of dowry deaths").
+Visualize the data using Tableau to identify key trends and make the findings accessible through interactive dashboards.  
+- **Skills Demonstrated:** Data Preprocessing, SQL Analysis, and Tableau Visualization.  
+- **Tools Used:** Tableau, MySQL  
 - **Key Features:**  
-  - Region-specific filters.  
-  - Monthly sales trends and year-over-year comparison.  
-📁 **[View Dashboard Files](https://github.com/yourusername/portfolio/tree/main/Sales-Dashboard)**  
+  - Top 10 Highest Reported Rape Cases (2001-2014): The state of Madhya Pradesh reported the highest number of rape cases during the 14-year period.
+  - Top 10 Highest Dowry Deaths (2001-2014): The state of Uttar Pradesh led in dowry-related deaths.
+  - Top 5 States for Domestic Violence: West Bengal had the highest domestic violence cases reported.
+📁 **[View Project]((https://github.com/Shrutiijoshi/Crime_against_women-in-India))**  
 
 ---
 
-### 🧮 **3. Customer Segmentation with RFM Analysis**  
-**Objective:** Segment customers for personalized marketing strategies using RFM (Recency, Frequency, Monetary) metrics.  
-- **Skills Demonstrated:** Data segmentation, SQL querying, and actionable insights.  
-- **Tools Used:** Python (Pandas), SQL  
+### 🧮 **3. Students_exam_score_analysis**  
+**Objective:** analyzing student exam scores to uncover insights related to performance trends, factors affecting scores, and overall academic success..  
+- **Skills Demonstrated:** Descriptive statistics, Data visualization (e.g., heatmap, count plots), Correlation analysis, and Group comparisons (e.g., by gender or study hours).  
+- **Tools Used:** Python (Pandas,Matplotlib,Seaborn)  
 - **Key Results:**  
-  - Identified top 20% customers contributing to 80% revenue.  
-  - Proposed strategies for re-engaging dormant customers.  
-📁 **[View Project Code](https://github.com/yourusername/portfolio/tree/main/Customer-Segmentation)**  
+  - Visualizations of score distributions
+  - Insights on the impact of study hours on scores
+  - Gender-based performance comparisons 
+📁 **[View Project]((https://github.com/Shrutiijoshi/Students_exam_score_analysis))**
 
 ---
 
-## **📂 Repository Structure**  
+## 🌐 Let’s Connect!
+- 📧 Email: joshiishrutii@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/shruti-joshi-a1a129217/
+- 💼 Portfolio Website: https://peerlist.io/shrutijoshi
+- 📦 GitHub: https://github.com/Shrutiijoshi
 
-```plaintext
-portfolio/
-├── Ola-Uber-Analysis/
-│   ├── data/
-│   ├── analysis.ipynb
-│   └── README.md
-├── Sales-Dashboard/
-│   ├── dashboard.twbx
-│   ├── data.xlsx
-│   └── README.md
-├── Customer-Segmentation/
-│   ├── segmentation.ipynb
-│   ├── queries.sql
-│   └── README.md
-└── README.md
+---
+
+## 📢 Final Words
+Thank you for exploring my portfolio!
+
+
+
 
 
