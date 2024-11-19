@@ -1,4 +1,8 @@
-# 🌟 **Data Analyst Portfolio** 🌟  
+<div align="center">
+
+# 🌟 **Data Analyst Portfolio** 🌟 
+
+</div>
 
 ![Portfolio Banner](Banner.png)  
  
