@@ -1,8 +1,4 @@
-<div align="center">
-
-# 🌟 **Data Analyst Portfolio** 🌟 
-
-</div>
+# Hello! Welcome to my Portfolio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 ![Portfolio Banner](Banner.png)  
  
