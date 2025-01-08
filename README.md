@@ -47,7 +47,7 @@ Visualize the data using Tableau to identify key trends and make the findings ac
   - Top 10 Highest Reported Rape Cases (2001-2014): The state of Madhya Pradesh reported the highest number of rape cases during the 14-year period.
   - Top 10 Highest Dowry Deaths (2001-2014): The state of Uttar Pradesh led in dowry-related deaths.
   - Top 5 States for Domestic Violence: West Bengal had the highest domestic violence cases reported.
-📁 **[View Project]((https://github.com/Shrutiijoshi/Crime_against_women-in-India))**  
+📁 **[View Project](https://github.com/Shrutiijoshi/Crime_against_women-in-India)**  
 
 ---
 
@@ -59,7 +59,7 @@ Visualize the data using Tableau to identify key trends and make the findings ac
   - Visualizations of score distributions
   - Insights on the impact of study hours on scores
   - Gender-based performance comparisons 
-📁 **[View Project]((https://github.com/Shrutiijoshi/Students_exam_score_analysis))**
+📁 **[View Project](https://github.com/Shrutiijoshi/Students_exam_score_analysis)**
 
 ---
 
